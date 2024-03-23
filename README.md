@@ -23,17 +23,28 @@ This stage is divided in **11 chapters** of teaching ([table of contents](#table
 
 <hr name="capitulo1">
 
-## ⭕✅ Capítulo 1
+## ✅ Capítulo 1
 
-Capítulo 1 - *Continuando a História da Criação da Agrotech com a The Future Now*
+>***Continuando a História da Criação da Agrotech com a The Future Now***
 
-- Anotações do Capítulo 1 (<a href="./Capitulos/Capitulo1/Capitulo1.md">Capitulo1.md</a>)
+| Conteúdo | Arquivo |
+| :---: | :---: |
+| Digital | [Capitulo1.md](./Capitulos/Capitulo1/Capitulo1.md) |
 
 <p align="right">(<a href="#readme-top">back to top</a>)
 
 <hr name="capitulo2">
 
 ## ⭕ Capítulo 2
+
+>***Continuando a Imersão do Conhecimento no Front-End***
+
+### Anotações do Capítulo 2
+
+| Conteúdo | Arquivo |
+| :---: | :---: |
+| Digital | [Capitulo2.md](./Capitulos/Capitulo2/Capitulo2.md) |
+| Playlist de Vídeo | [Cap2Videos.md](./Capitulos/Capitulo2/Cap2Videos.md) |
 
 <p align="right">(<a href="#readme-top">back to top</a>)
 
