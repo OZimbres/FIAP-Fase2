@@ -52,6 +52,15 @@ This stage is divided in **11 chapters** of teaching ([table of contents](#table
 
 ## ⭕ Capítulo 3
 
+>***Aprender mais HTML 5 e Aplicar CSS para Entregar Mais e Ficar Mais Próximo da Experiência do Usuário***
+
+### Anotações do Capítulo 3
+
+| Conteúdo | Arquivo |
+| :---: | :---: |
+| Digital | [Capitulo3.md](./Capitulos/Capitulo3/Capitulo3.md) |
+| Playlist de Vídeo | [Cap3Videos.md](./Capitulos/Capitulo3/Cap3Videos.md) |
+
 <p align="right">(<a href="#readme-top">back to top</a>)
 
 <hr name="capitulo4">
