@@ -10,7 +10,7 @@ Repository for my college (FIAP) study content, more specifically the ***FASE 2*
 
 This stage is divided in **11 chapters** of teaching ([table of contents](#table-of-contents))
 
-(02/19 - 03/20)
+(03/21 - 04/20)
 
 <hr name="table-of-contents">
 
